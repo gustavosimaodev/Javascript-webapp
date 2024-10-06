@@ -73,13 +73,13 @@ p {
     font-family: var(--fonte-texto);
 }
 
-#input-item::placeholder {
+.input-item::placeholder {
     font-family: "Montserrat", sans-serif;
     font-size: 16px;
     line-height: 19px;
 }
 
-#adicionar-botao {
+.adicionar-botao {
     text-align: center;
     padding: 12px 16px;
     border-radius: 24px;
